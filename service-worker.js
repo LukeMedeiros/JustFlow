@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/JustFlow/precache-manifest.92fb5e4208017846636bbd3581b50715.js"
+  "/JustFlow/precache-manifest.549c41e863c9486acf26b9fed1ca4997.js"
 );
 
 self.addEventListener('message', (event) => {

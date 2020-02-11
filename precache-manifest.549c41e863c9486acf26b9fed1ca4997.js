@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b1566f0dfe329b60cbf9a2197429802",
+    "revision": "1c0f84e7808f4b509a5f41e41da93236",
     "url": "/JustFlow/index.html"
   },
   {
-    "revision": "da551f5b062327603a94",
+    "revision": "416ddb9bfa275a7e7a51",
     "url": "/JustFlow/static/css/main.78d549dc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JustFlow/static/js/2.b684f297.chunk.js.LICENSE"
   },
   {
-    "revision": "da551f5b062327603a94",
-    "url": "/JustFlow/static/js/main.8cf0c982.chunk.js"
+    "revision": "416ddb9bfa275a7e7a51",
+    "url": "/JustFlow/static/js/main.7661a005.chunk.js"
   },
   {
     "revision": "3008501b4dbb585acad8",
