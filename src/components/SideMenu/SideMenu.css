@@ -1,0 +1,61 @@
+.side-menu-container {
+  padding: 20px;
+  padding-bottom: 5px;
+  color: rgb(179, 179, 179);
+  margin: 0;
+}
+
+.user-library-header {
+  font-weight: 300;
+  text-transform: uppercase;
+  font-size: 13px;
+  margin: 0;
+  padding: 0 0 5px 0;
+  letter-spacing: 1px;
+}
+
+.side-menu-item {
+  list-style-type: none;
+  line-height: 28px;
+  font-size: 14px;
+  width: 140px;
+  cursor: pointer;
+text-overflow: ellipsis;
+white-space: nowrap;
+}
+
+.side-menu-item:hover {
+  color: #fff;
+}
+
+
+.side-menu-container .active {
+	margin-left: -3px;
+}
+
+.side-menu-container .active:before {
+	content: "";
+	border-left: 3px solid #1db954;
+	position: relative;
+	left: -18px;
+}
+
+.new-playlist-btn {
+  background: #1db954;
+  color: #fff;
+  border: none;
+  margin-top: 10px;
+  border-radius: 20px;
+  padding: 10px;
+  width: 130px;
+  font-size: 11px;
+  letter-spacing: 1px;
+  cursor: pointer;
+  outline: none;
+}
+
+.side-menu-title{
+  display: inline;
+  padding-left: 10px;
+  font-size: 16px;
+}

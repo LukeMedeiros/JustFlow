@@ -1,0 +1,33 @@
+.track-search-container {
+	position: relative;
+	top: 10px;
+}
+
+.track-search-container input {
+	background: #fff;
+	width: 700px;
+	border-radius: 10px;
+	border: none;
+	padding: 4px 4px 4px 10px;
+	outline: none;
+	font-size: 18px;
+}
+
+.search {
+	margin-left: 5px;
+	cursor: pointer;
+	cursor: pointer;
+  color: white;
+  font-size: 15px;
+}
+
+button {
+	background: none;
+	border: none;
+	outline: none;
+}
+
+.wide-search{
+	font-size: 20px;
+	width: 700px;
+}
