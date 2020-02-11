@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/JustFlow/static/css/main.78d549dc.chunk.css",
-    "main.js": "/JustFlow/static/js/main.7661a005.chunk.js",
-    "main.js.map": "/JustFlow/static/js/main.7661a005.chunk.js.map",
+    "main.js": "/JustFlow/static/js/main.29988e99.chunk.js",
+    "main.js.map": "/JustFlow/static/js/main.29988e99.chunk.js.map",
     "runtime-main.js": "/JustFlow/static/js/runtime-main.20108957.js",
     "runtime-main.js.map": "/JustFlow/static/js/runtime-main.20108957.js.map",
     "static/js/2.b684f297.chunk.js": "/JustFlow/static/js/2.b684f297.chunk.js",
     "static/js/2.b684f297.chunk.js.map": "/JustFlow/static/js/2.b684f297.chunk.js.map",
     "index.html": "/JustFlow/index.html",
-    "precache-manifest.549c41e863c9486acf26b9fed1ca4997.js": "/JustFlow/precache-manifest.549c41e863c9486acf26b9fed1ca4997.js",
+    "precache-manifest.c15ebf3c58c2dd569bbd1a03b365f511.js": "/JustFlow/precache-manifest.c15ebf3c58c2dd569bbd1a03b365f511.js",
     "service-worker.js": "/JustFlow/service-worker.js",
     "static/css/main.78d549dc.chunk.css.map": "/JustFlow/static/css/main.78d549dc.chunk.css.map",
     "static/js/2.b684f297.chunk.js.LICENSE": "/JustFlow/static/js/2.b684f297.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.20108957.js",
     "static/js/2.b684f297.chunk.js",
     "static/css/main.78d549dc.chunk.css",
-    "static/js/main.7661a005.chunk.js"
+    "static/js/main.29988e99.chunk.js"
   ]
 }
