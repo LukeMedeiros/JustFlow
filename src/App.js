@@ -40,7 +40,7 @@ class App extends Component {
 
 		let parsed = queryString.parse(window.location.search)
 		if(parsed['access_token']===undefined){
-			window.location = 'http://10.0.0.28:8080/';
+			window.location = 'http://oceanman.pythonanywhere.com/';
 			this.setState({authenticated: true})
 		}
 		else if(this.state.firstAuth !== false){

@@ -43,7 +43,7 @@ class GeneratePlaylistHeader extends Component{
     for(let seed of this.props.selectedSongs){
       seedSongIds.push(seed.track.id);      
     }
-    fetch("http://localhost:8080/playlist/generate", {
+    fetch("http://oceanman.pythonanywhere.com/playlist/generate", {
       method: "POST",
       headers: {
         authorization: `Bearer ${this.props.token}`,

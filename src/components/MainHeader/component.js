@@ -62,7 +62,7 @@ class MainHeader extends Component{
       unordered_ids.push(this.props.songs[i].track.id)       
     }
 
-    fetch("http://localhost:8080/playlist/organize", {
+    fetch("http://oceanman.pythonanywhere.com/playlist/organize", {
       method: "POST",
       headers: {
         authorization: `Bearer ${this.props.token}`,
